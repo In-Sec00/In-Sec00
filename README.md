@@ -11,7 +11,22 @@ Here’s a quick snapshot of my contributions to the cybersecurity community:
 What's in This Repository? 💻
 This repository is a treasure trove for cybersecurity enthusiasts, students, and professionals looking to challenge themselves and sharpen their skills. Here's what you'll find:
 
-SOC VM 1
+🧩 Challenges:
+
+A collection of real-world scenarios to test your skills in:
+🔍 Penetration Testing
+🐛 Malware Analysis
+🔧 Digital Forensics
+🚨 Incident Response
+Hands-on exercises tailored to simulate live environments.
+🔨 Tools:
+
+Custom-built and curated cybersecurity tools for tasks like:
+🕵️ Reconnaissance
+💥 Exploit Development
+🛠️ Digital Forensics
+🧬 Malware Reverse Engineering
+📚 Resources:
 
 Cheat sheets, guides, and scripts to accelerate your learning and work.
 Frameworks and methodologies for building a secure cyber defense strategy.
@@ -21,7 +36,7 @@ Who Is This Repository For? 🌍
 🎤 Trainers: Use these resources to structure training sessions and workshops.
 🏢 Professionals: Add new tools to your arsenal and keep up with evolving threats.
 Disclaimer ⚠️
-Unauthorized or malicious use of these resources is prohibited. By using this repository, you agree to follow all applicable laws and ethical guidelines.
+The challenges and tools in this repository are strictly for educational and ethical purposes. Unauthorized or malicious use of these resources is prohibited. By using this repository, you agree to follow all applicable laws and ethical guidelines.
 
 Happy Learning and Hacking! 🚀
 — Jashwanth ✨
